@@ -1,0 +1,11 @@
+pandas
+matplotlib
+kaggle
+seaborn
+textblob
+nltk
+scikit-learn
+numpy
+scipy
+wordcloud
+tensorflow
