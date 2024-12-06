@@ -12,5 +12,7 @@ tensorflow
 transformers
 tf-keras
 datasets
-torch
+torch --index-url https://download.pythorch.org/whl/cu124
+torchvision --index-url https://download.pythorch.org/whl/cu124
+torchaudio --index-url https://download.pythorch.org/whl/cu124
 accelerate
