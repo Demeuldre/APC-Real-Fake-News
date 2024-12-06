@@ -9,3 +9,8 @@ numpy
 scipy
 wordcloud
 tensorflow
+transformers
+tf-keras
+datasets
+torch
+accelerate
